@@ -8,7 +8,7 @@ main()
     {
         scanf("%d",&arr[i]);
     }
-    pritf("Enter the data to find ");
+    printf("Enter the data to find ");
     scanf("%d",&data);
     for(i=1;i<=n;i++)
     {
